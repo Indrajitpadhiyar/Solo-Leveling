@@ -153,9 +153,9 @@ const App = () => {
               <img className='building scale-[2] rotate-[-15deg] absolute top-0 left-0 w-full h-full object-cover' src="./images/bg2.png" alt="" />
 
               <div className='text absolute top-10 left-1/2 -translate-x-1/2 text-white scale-[2] rotate-[20deg]'>
-                <h1 className='text-7xl -ml-19 leading-none'>Watch</h1>
+                <h1 className='text-7xl -ml-19 leading-none'>Play</h1>
                 <h1 className='text-7xl ml-16 leading-none text-red-900 drop-shadow-red-600 drop-shadow-2xl'>Solo</h1>
-                <h1 className='text-7xl -ml-19 leading-none text-blue-600 drop-shadow-white drop-shadow-2xl'>Leveling</h1>
+                <h1 className='text-7xl -ml-19 leading-none text-blue-600 drop-shadow-black drop-shadow-2xl'>Leveling</h1>
               </div>
 
               <img className='absolute boy -bottom-[150%] scale-[3] rotate-[-20deg] -translate-x-1/2 left-1/2 object-cover' src="./images/boy.png" alt="" />
