@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@font-face {
+   font-family: solo-level;
+   src: url(../public/images/Eternal.ttf);
+}
+
+html,
+body {
+   width: 100%;
+   height: 100%;
+   font-family: "solo-level";
+   /* background-color: rgb(6, 6, 71); */
+}
